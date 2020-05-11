@@ -1,0 +1,14 @@
+.place-card__like-number {
+    width: 9px;
+    height: 13px;
+    margin: auto;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #000000;
+}
