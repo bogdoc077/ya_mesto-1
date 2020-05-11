@@ -1,0 +1,6 @@
+.popup__images {
+    width: 80vh;
+    min-height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
