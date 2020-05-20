@@ -83,9 +83,9 @@ popupCloseImg.addEventListener('click', () => {
 
 //API Class
 const apiClass = new Api({
-  basUrl: 'https://praktikum.tk/cohort10',
+  basUrl: '', //ссылка запроса с номером группы
   headers: {
-    authorization: '252989a9-c329-4b9a-8712-5e471d643906',
+    authorization: '', //личный токен
       'Content-Type': 'application/json'
   }
 
